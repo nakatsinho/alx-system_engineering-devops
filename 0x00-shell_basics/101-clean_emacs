@@ -1,2 +1,2 @@
-#!/bin/emacs
+#!/bin/bash
 rm *~
